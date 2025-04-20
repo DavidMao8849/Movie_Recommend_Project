@@ -1,8 +1,8 @@
-# 🎬 연도별 흥행 영화 추천 웹앱 (ASP.NET Web Forms)
+# 🎬 연도별 흥행 영화 리스트와 영화 다시보기 추천 Web App (ASP.NET Web Forms)
 
 ## 📌 프로젝트 소개
-ASP.NET Web Forms를 활용하여 제작한 웹사이트입니다. 
-연도별로 인기 있는 영화를 보여주고, 다시볼 영화를 추천하는 기능을 구현하였습니다.
+대학교과목중 "서버구축 및 실습" 수업에서 진행한 팀 프로젝트이며, ASP.NET Web Forms를 활용하여 제작한 웹사이트입니다.<br />
+연도별로 인기 있는 영화를 보여주고, 다시볼 영화를 추천하는 기능을 구현하였습니다.<br />
 
 ## 🛠️ 사용 기술
 - ASP.NET Web Forms (.NET Framework)
@@ -10,21 +10,36 @@ ASP.NET Web Forms를 활용하여 제작한 웹사이트입니다.
 - Visual Studio
 - IIS Express (개발 서버)
 
+### 1. Back-end
+> C# 기반 코드비하인드 로직 처리  
+> 추천 알고리즘 및 데이터 처리 
+
+### 2. Front-end
+> ASP.NET 웹폼을 통한 레이아웃 구성  
+> 사용자 입력 및 결과 표시
+
+<br />
+
 ## ✨ 주요 기능
-- 연도별 흥행 영화 추천 리스트
-- 영화별 다시보기 링크 제공
+- 연도별 흥행 영화 리스트 출력
+- 영화 장르별 다시보기 추천 기능 제공
 - UI/UX 디자인 및 사용자 친화적 인터페이스
 
-## 💻 프론트엔드
-- ASP.NET 웹폼을 통한 레이아웃 구성
-- 사용자 입력 및 결과 표시
-
-## ⚙️ 백엔드
-- C# 기반 코드비하인드 로직 처리
-- 추천 알고리즘 및 데이터 처리
+<br />
 
 ## 📷 프로젝트 이미지
-> PPT에서 추출한 웹폼 캡처 이미지 포함
+> - 웹 디자인 및 구조 설계
+>> ![image](https://github.com/user-attachments/assets/52e2e0c8-8761-4208-b8c4-fb95a2c0b07e)
+>> ![image](https://github.com/user-attachments/assets/9e5fb3ac-aa15-4221-88a9-43444ad45dda)
+> - 메인 웹 폼[메인화면]
+>> ![image](https://github.com/user-attachments/assets/cc098d46-e34d-4a05-8b38-3b812447d419)
+>>
+> - 리스트 웹 폼[역대 흥행 영화 찾아보기]
+>> ![image](https://github.com/user-attachments/assets/ca78f735-93fd-4fd3-937f-f5c7b223788f)
+>> ![image](https://github.com/user-attachments/assets/6971943e-f8ea-4d0b-b4dc-078c83515926)
+
+
+
 
 ## 🧠 팀원 역할 분담
 | 이름 | 역할 |
