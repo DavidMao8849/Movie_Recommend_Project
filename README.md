@@ -63,7 +63,7 @@ ASP.NET Web Forms를 활용하여 제작한 웹사이트입니다.<br />
 
 ## 📁 문서
 - 발표 자료: [`발표.pptx`](docs/발표.pptx)
-- 결과 보고서: [`결과보고서.pdf`](docs/결과보고서.pdf)
+- 결과 보고서: [`결과보고서.pdf`](docs/PBL 결과보고서(저희 신입생 맞조).pdf)
 
 ## 📽️ 시연 영상 (선택)
 [YouTube 링크 또는 GIF 추가]
