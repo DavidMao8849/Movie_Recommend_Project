@@ -53,12 +53,12 @@ ASP.NET Web Forms를 활용하여 제작한 웹사이트입니다.<br />
 
 ## 리스트 웹 폼[역대 흥행 영화 찾아보기]
 <img src="https://github.com/user-attachments/assets/ca78f735-93fd-4fd3-937f-f5c7b223788f"/>
-<img src="https://github.com/user-attachments/assets/ad2cb257-9adb-49b0-ba7e-d517f5056aa2"/>
+<img src="https://github.com/user-attachments/assets/c9fb0ceb-cb2f-4ea6-8dd6-327b43d972eb"/><br />
 [코드 내용]https://github.com/DavidMao8849/Movie_Recommend_Project/blob/a5375c53a326d5de191bd83fb29e98753ac956a2/MovieList.aspx#L1-L78
 
 ## 다시보기 웹 폼[장르별 다시 볼 영화 추천]
 ![image](https://github.com/user-attachments/assets/d229cf6e-5c5f-4195-975f-48409c9a0ac8)
-![image](https://github.com/user-attachments/assets/073f50d8-8782-488b-b9f4-5a4eb299c2d4)
+![image](https://github.com/user-attachments/assets/073f50d8-8782-488b-b9f4-5a4eb299c2d4)<br />
 [코드 내용]https://github.com/DavidMao8849/Movie_Recommend_Project/blob/a5375c53a326d5de191bd83fb29e98753ac956a2/MovieReview.aspx#L1-L79
 
 </details>
