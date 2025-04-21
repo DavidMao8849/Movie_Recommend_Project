@@ -1,4 +1,4 @@
-# 🎬 연도별 흥행 영화 리스트와 영화 다시보기 추천 사이트 만들기 
+## 🎬 연도별 흥행 영화 리스트 & 장르별 다시보기 추천 사이트 만들기 
 **서버구축 및 실습 PBL 프로젝트 - 저희신입생맞조**  
 > 팀원: 이은우, 권경운, 최희유, 송여빈  
 > 프로젝트 기간: 2024년 1학기
@@ -49,49 +49,17 @@ ASP.NET Web Forms를 활용하여 제작한 웹사이트입니다.<br />
   
 ## 메인 웹 폼[메인화면]
 <img src="https://github.com/user-attachments/assets/cc098d46-e34d-4a05-8b38-3b812447d419"/>
-```python
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MovieMain.aspx.cs" Inherits="MoviePractice.MovieMain" %>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>역대 흥행 영화 모음집</title>
-</head>
-<body>
-    <form id="form1" runat="server" style="text-align: center; background-image: url('Image/Main3.jpg'); height: 994px;">
-        <div style="text-align: center">
-            <asp:Label ID="Label1" runat="server" BorderColor="#999999" BorderStyle="Groove" Font-Names="배달의민족 한나체 Pro" Font-Size="XX-Large" Text="역대 흥행 영화 모음집"></asp:Label>
-            <br />
-            <br />
-            <br />
-            <asp:Image ID="Image1" runat="server" ImageUrl="~/Image/Main.png" />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <asp:Button ID="Button1" runat="server" Font-Names="배달의민족 한나체 Pro" Font-Size="Large" Height="49px" Text="역대 흥행 영화 찾아보기" ToolTip="역대 흥행하였던 영화를 찾아보는 사이트로 이동합니다!" Width="188px" OnClick="Button1_Click" PostBackUrl="~/MovieList2.aspx" />
-            <br />
-            <br />
-            <br />
-        </div>
-&nbsp;<asp:Button ID="Button2" runat="server" Font-Names="배달의민족 한나체 Pro" Font-Size="Large" Height="49px" Text="영화 다시보기 추천" ToolTip="역대 흥행 했던 영화들을 여러분의 알고리즘 분석을 통해 추천해드립니다!" Width="188px" PostBackUrl="~/MovieReview.aspx" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button3" runat="server" Font-Names="배달의민족 한나체 Pro" Font-Size="Large" Height="49px" Text="제작자" ToolTip="이 사이트를 제작하는데 큰 기여를 해준 분들입니다!" Width="188px" PostBackUrl="~/MovieMaker.aspx" />
-    </form>
-</body>
-</html>
-```
+[코드 내용]https://github.com/DavidMao8849/Movie_Recommend_Project/blob/a5375c53a326d5de191bd83fb29e98753ac956a2/MovieMain.aspx#L1-L33
 
 ## 리스트 웹 폼[역대 흥행 영화 찾아보기]
 <img src="https://github.com/user-attachments/assets/ca78f735-93fd-4fd3-937f-f5c7b223788f"/>
-<img src="https://github.com/user-attachments/assets/6971943e-f8ea-4d0b-b4dc-078c83515926"/>
 <img src="https://github.com/user-attachments/assets/ad2cb257-9adb-49b0-ba7e-d517f5056aa2"/>
+[코드 내용]https://github.com/DavidMao8849/Movie_Recommend_Project/blob/a5375c53a326d5de191bd83fb29e98753ac956a2/MovieList.aspx#L1-L78
 
-## 리스트 웹 폼[역대 흥행 영화 찾아보기]
+## 다시보기 웹 폼[장르별 다시 볼 영화 추천]
 ![image](https://github.com/user-attachments/assets/d229cf6e-5c5f-4195-975f-48409c9a0ac8)
+![image](https://github.com/user-attachments/assets/073f50d8-8782-488b-b9f4-5a4eb299c2d4)
+[코드 내용]https://github.com/DavidMao8849/Movie_Recommend_Project/blob/a5375c53a326d5de191bd83fb29e98753ac956a2/MovieReview.aspx#L1-L79
 
 </details>
 
