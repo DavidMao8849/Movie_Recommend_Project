@@ -17,10 +17,10 @@ ASP.NET Web Forms를 활용하여 제작한 웹사이트입니다.<br />
 
 
 ## 🛠️ 사용 기술
-> ASP.NET Web Forms (.NET Framework)<br />
-> C# / HTML / CSS<br />
-> Visual Studio<br />
-> IIS Express (개발 서버)<br />
+- ASP.NET Web Forms (.NET Framework)<br />
+- C# / HTML / CSS<br />
+- Visual Studio<br />
+- IIS Express (개발 서버)<br />
 
 ### 1. Back-end
 - C# 기반 코드비하인드 로직 처리  
