@@ -91,4 +91,16 @@ ASP.NET Web Forms를 활용하여 제작한 웹사이트입니다.<br />
 ---
 
 ## 📽️ 시연 영상 
-<a href="https://youtu.be/AnoRBPV7f7o" title="연도별 흥행 영화 리스트 & 장르별 다시보기 추천 사이트 발표">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <p align="center"> 팀프로젝트 비대면 발표 </p>
+        <a href="https://youtu.be/AnoRBPV7f7o" title="연도별 흥행 영화 리스트 & 장르별 다시보기 추천 사이트 발표">
+          <img align="center" src="https://github.com/user-attachments/assets/013a3be2-00ba-4878-a35e-01498021b739" width="300" >
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
